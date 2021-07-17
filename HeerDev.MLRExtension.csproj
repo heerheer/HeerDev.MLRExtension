@@ -5,6 +5,9 @@
     <Nullable>enable</Nullable>
     <UseWPF>true</UseWPF>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Authors>Kaisair Heer</Authors>
+    <Description></Description>
+    <RepositoryUrl>https://github.com/heerheer/HeerDev.MLRExtension</RepositoryUrl>
   </PropertyGroup>
 
 </Project>
